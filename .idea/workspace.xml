@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acc27f12-3154-4ff0-81ef-6277f4f27b02" name="Changes" comment="" />
+    <list default="true" id="acc27f12-3154-4ff0-81ef-6277f4f27b02" name="Changes" comment="Calander1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2NiBRq6wFZFI2SWIKkGXDGoWsnd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +31,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680137021528</updated>
     </task>
+    <task id="LOCAL-00001" summary="Calander1">
+      <created>1680137193669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680137193669</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calander1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calander1" />
   </component>
 </project>
