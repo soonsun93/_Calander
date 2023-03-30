@@ -23,5 +23,7 @@ public class Calander1 {
         System.out.println("두 수의 합은 "+ (a+b)+ "입니다.");
         System.out.printf("%d와 %d의 합은 %d입니다.",a, b, a+b);
         sc.close(); //열었던 것은 작업을 끝내야 한다.
+
+
+        }
     }
-}
