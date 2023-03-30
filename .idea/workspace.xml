@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc27f12-3154-4ff0-81ef-6277f4f27b02" name="Changes" comment="Calander Print">
-      <change afterPath="$PROJECT_DIR$/src/Calander2.java" afterDir="false" />
+    <list default="true" id="acc27f12-3154-4ff0-81ef-6277f4f27b02" name="Changes" comment="Calander month/day">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calander1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calander1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calander1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calendar1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calander2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calendar2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,13 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680138863610</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Calander month/day">
+      <created>1680142304274</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680142304274</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Calander1" />
     <MESSAGE value="Calander Print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calander Print" />
+    <MESSAGE value="Calander month/day" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calander month/day" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
